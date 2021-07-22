@@ -1,0 +1,80 @@
+/* *{
+    box-sizing: border-box;
+} */
+body {
+    margin: 0px;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+   
+}
+.navbar {
+    background-image: url("images/Navbar.JPG");
+    background-size: cover;
+    font-size: 200%;
+    width: 100%;
+    height: 15%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+body{
+    background-image: url("images/Teldrassil.jpg");
+    background-size: cover;
+}
+.welcomebox {
+    width:20%;
+    height: 80%;
+    padding-left: 1%;
+}
+
+/* .footer{
+    background-image: url("images/Navbar.JPG");
+    background-size: cover;
+    width: 100%;
+    height: 5%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} */
+
+
+#Loquenahak{
+    width:20%;
+    height:70%;
+    padding-left: 1%;
+}
+
+.Skoll{    
+    width:20%;
+    height:70%;
+    padding-left: 1%;
+}
+
+.Skye{    
+    width:20%;
+    height:70%;
+    padding-left: 1%;
+}
+
+.Sholazar{    
+    width:20%;
+    height:33.3%;
+    padding-left: 1%;
+}
+
+.StormPeaks{    
+    width:20%;
+    height:33.3%;
+    padding-left: 1%;
+}
+
+.Hyjal{    
+    width:20%;
+    height:33.3%;
+    padding-left: 1%;
+}
